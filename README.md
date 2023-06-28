@@ -1,10 +1,10 @@
 # Excel Projects Repository
 
-## Introduction
+## Introduction 
 
 Welcome to my GitHub repository dedicated to Excel projects! This repository contains a collection of diverse projects demonstrating my data analysis skills using Excel. These projects encompass a wide range of data manipulation, data analysis, and visualization techniques to derive insights from various datasets.
 
-## Projects
+## Projects📁
 
 In this repository, you will find projects on:
 
@@ -16,7 +16,7 @@ In this repository, you will find projects on:
 
 Each project resides in a separate folder, which includes all necessary Excel files along with a `README.md` file providing a brief description of the project, the techniques used, and the insights derived.
 
-## Tools Used
+## Tools Used🛠
 
 These projects primarily utilize Microsoft Excel, leveraging features such as:
 
@@ -27,11 +27,11 @@ These projects primarily utilize Microsoft Excel, leveraging features such as:
 - Power Query
 - Conditional Formatting
 
-## Contribution
+## Contribution👥
 
 Contributions, suggestions, and improvements are most welcome. Feel free to fork this repository and submit pull requests. If you have any issues or questions, please open an issue, and I'll promptly address it.
 
-## Author
+## Author👩🏻‍💻
 
 [Fz Iguenfer]
 
