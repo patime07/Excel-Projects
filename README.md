@@ -33,9 +33,9 @@ Contributions, suggestions, and improvements are most welcome. Feel free to fork
 
 ## Author
 
-[Your Name]
+[Fz Iguenfer]
 
-Feel free to connect with me on [LinkedIn](Your LinkedIn Profile URL).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fziguenfer/).
 
 Enjoy Exploring and Happy Learning!
 
