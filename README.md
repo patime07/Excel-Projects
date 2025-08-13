@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Welcome to my GitHub repository dedicated to Excel projects! This repository contains a collection of diverse projects demonstrating my data analysis skills using Excel. These projects encompass a wide range of data manipulation, data analysis, and visualization techniques to derive insights from various datasets.
+Welcome to my GitHub repository for Excel projects! This repository has a set of projects that I have worked on to land my first "Junior Data Analyst" position
 
 ## Projects📁
 
@@ -26,16 +26,4 @@ These projects primarily utilize Microsoft Excel, leveraging features such as:
 - Data Analysis ToolPak
 - Power Query
 - Conditional Formatting
-
-## Contribution👥
-
-Contributions, suggestions, and improvements are most welcome. Feel free to fork this repository and submit pull requests. If you have any issues or questions, please open an issue, and I'll promptly address it.
-
-## Author👩🏻‍💻
-
-[Fz Iguenfer]
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fziguenfer/).
-
-Enjoy Exploring and Happy Learning!
 
